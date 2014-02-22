@@ -1,5 +1,8 @@
 # ANDROID / ECLIPSE
 
+ant-build/
+ant-gen/
+
 # built application files
 *.apk
 *.ap_
@@ -11,9 +14,9 @@
 *.class
 
 # generated files - android project subfolder
-Android/bin/
-Android/gen/
-Android/assets/
+[Aa]ndroid/bin/
+[Aa]ndroid/gen/
+[Aa]ndroid/assets/
 
 # generated files
 bin/
