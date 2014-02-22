@@ -3,7 +3,6 @@
 ant-build/
 ant-gen/
 /platforms/android/assets/www
-/platforms/android/res
 
 # built application files
 *.apk
