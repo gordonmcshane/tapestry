@@ -1,1 +1,1 @@
-{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{},"installed_plugins":{},"dependent_plugins":{}}
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"res/xml/config.xml":{"/*":{"<feature name=\"LowLatencyAudio\"><param name=\"android-package\" value=\"com.phonegap.PGLowLatencyAudio\" /></feature>":1}}},"installed_plugins":{"com.phonegap.LowLatencyAudio":{"PACKAGE_NAME":"com.moosely.tapestry"}},"dependent_plugins":{}}

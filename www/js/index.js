@@ -45,5 +45,9 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+
+        window.LowLatencyAudio.preloadAudio('bozo', 'audio/test.wav',1, function() { window.LowLatencyAudio.play('bozo'); });
+
+
     }
 };
