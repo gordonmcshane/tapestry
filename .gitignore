@@ -2,8 +2,8 @@
 
 ant-build/
 ant-gen/
-assets/www/
-res/
+/platforms/android/assets/www
+/platforms/android/res
 
 # built application files
 *.apk
