@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.moosely.tapestry" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Tapestry</name>
+    <description>
+        Sounds to play DnD to.
+    </description>
+    <author email="gordonmcshane@gmail.com" href="http://www.github.com/gordonmcshane/">
+        Two dudes.
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
